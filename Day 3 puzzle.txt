@@ -1,0 +1,3 @@
+The puzzle can be solved based on whether or not n is an even number or not. 
+In the case that n is even, we can divide the rectangle into n/2 smaller right triangles by cutting diagonally across the rectangle, then cutting along the height to the hypotenuse.
+If n is odd, we can divide the rectangle into n-1 right triangles, cutting into any of those triangles at its height to its hypotenuse to get the last triangle. 
